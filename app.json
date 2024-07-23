@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "appTitle": "متجر تطبيقاتنا",
+    "body": "تطبيقات إسلامية بجودة عالية - خالية من الإعلانات",
+    "appLogo": "https://raw.githubusercontent.com/Hichem-DZ/app/2c86482aa2a661c3b23e1be329a75914b536abcf/quran_logo.svg?token=BKB7AKXUZOVN55EHYG6MCYDGT722Q",
+    "appBanner": "https://github.com/Hichem-DZ/app/blob/main/image1.png?raw=true",
+    "banner1": "https://github.com/Hichem-DZ/app/blob/main/image2.png?raw=true",
+    "banner2": "https://github.com/Hichem-DZ/app/blob/main/image3.png?raw=true",
+    "banner3": "https://raw.githubusercontent.com/Hichem-DZ/app/main/image5.png?token=GHSAT0AAAAAACVGY4GJV5BYX22M4GW3OM2OZU76LAQ",
+    "banner4": "https://github.com/Hichem-DZ/app/blob/main/image4.png?raw=true",
+    "aboutApp2": "",
+    "aboutApp3": "",
+    "urlAppStore": "https://play.google.com/store/apps/dev?id=5481265048042237962",
+    "urlPlayStore": "https://play.google.com/store/apps/dev?id=5481265048042237962",
+    "urlAppGallery": "https://play.google.com/store/apps/dev?id=5481265048042237962",
+    "urlMacAppStore": "1"
+  }
+]
